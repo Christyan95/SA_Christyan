@@ -5,11 +5,11 @@ const Navbar = () => {
   return (
     <>
       <C.Nav>
-        <C.New>
+        {/* <C.New>
           <C.Span></C.Span>
           <C.Span></C.Span>
           <C.Span></C.Span>
-        </C.New>
+        </C.New> */}
 
         <C.Ul>
           <C.Li>

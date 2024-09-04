@@ -3,17 +3,15 @@ import { createGlobalStyle } from "styled-components";
 const Global = createGlobalStyle`
 
     * {
+        box-sizing: border-box;
         margin: 0;
         padding: 0;
         font-family: 'SUSE', Sans-Serif;
+        text-decoration: none;
     }
 
     body {
-        /* width: 100vw;
-        height: 100vh;
-        display: flex;
-        justify-content: center;
-        background-color: black; */
+        overflow-x: hidden;
     }
 `;
 

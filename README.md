@@ -17,16 +17,14 @@
 ## Conceitos
     . Bibliotecas
         . Styled components
-        . Axios
         . React Icons
-        . React Toastify
 
 ## Preparando o ambiente
     . Instalar Node
     . Instalar Visual Studio Code
     . Instalar MySQL
     . Instalar Bibliotecas
-        . npm add styled-components
+        . npm add styled-components react-icons
 
 ## Criar projeto
     . npx create-react-app portfólio christyan
